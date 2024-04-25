@@ -1,0 +1,40 @@
+Sr No. : 1
+Title: Fight Club
+Genre: Thriller
+Year of Release: 1999
+Sr No. : 2
+Title: Ocean's 11
+Genre: Heist
+Year of Release: 2001
+Sr No. : 3
+Title: Jab We Met
+Genre: Rom-Com
+Year of Release: 2007
+Sr No. : 4
+Title: There Will Be Blood
+Genre: Drama
+Year of Release: 2007
+Sr No. : 5
+Title: When Harry Met Sally
+Genre: Rom-Com
+Year of Release: 1989
+Sr No. : 6
+Title: MoneyBall
+Genre: Drama
+Year of Release: 2011
+Sr No. : 7
+Title: Forest Gump
+Genre: Drama
+Year of Release: 1994
+Sr No. : 8
+Title: The Truman Show
+Genre: Drama
+Year of Release: 1998
+Sr No. : 9
+Title: There's something about Mary
+Genre: Comedy
+Year of Release: 1998
+Sr No. : 10
+Title: Meet Joe Black
+Genre: Romance
+Year of Release: 1998
